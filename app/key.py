@@ -1,5 +1,4 @@
 #http://stackoverflow.com/questions/1823762/sendkeys-for-python-3-1-on-windows
-# DANGER DANGER
 
 import win32api
 import win32con
